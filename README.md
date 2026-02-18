@@ -222,17 +222,3 @@ For production deployment:
 
 Created for ESG Reporting Interview Task - February 2026
 
----
-
-## 👤 Author
-
-Developed as part of an interview assessment demonstrating:
-- Full-stack development skills
-- AI integration capabilities
-- TypeScript proficiency
-- Clean code architecture
-- Production-ready practices
-
----
-
-**Built with Next.js, TypeScript, and Google Gemini AI** 🚀
