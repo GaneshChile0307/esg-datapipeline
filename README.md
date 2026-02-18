@@ -54,14 +54,6 @@ types/               # TypeScript types
 data/                # JSON storage (auto-generated)
 ```
 
-## 🎯 Task Completion
-
-| Task | Status | Feature |
-|------|--------|---------|
-| A | ✅ | Data entry & persistence |
-| B | ✅ | Chart visualization |
-| C | ✅ | AI strategy generation |
-| D | ✅ | PDF download (bonus) |
 
 ## 🌟 Key Features
 
